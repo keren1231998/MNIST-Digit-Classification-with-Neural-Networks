@@ -55,5 +55,3 @@ Each configuration provided insights into how regularization and normalization i
    ```
 4. View the training results and accuracy metrics upon completion.
 
-## License
-This project is licensed under the MIT License.
