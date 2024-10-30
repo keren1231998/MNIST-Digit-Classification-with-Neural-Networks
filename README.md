@@ -1,7 +1,5 @@
 # MNIST-Digit-Classification-with-Neural-Networks
 
-# Deep Learning Assignment 1 - Neural Network Implementation with PyTorch
-
 ## Authors
 - **Keren Gorelik** - 206749731
 - **Lior Kobi** - 318663465
